@@ -1,0 +1,523 @@
+lokasi_masjid_baim
+lokasi_masjid_Baitul Ilmi
+lokasi_masjid_baitul ilmu
+lokasi_masjid_At Tanwir
+lokasi_masjid_at tanwir
+lokasi_masjid_At tanwir
+lokasi_masjid_At-Tanwir
+lokasi_masjid_at-tanwir
+lokasi_masjid_At-tanwir
+lokasi_tempat_kebun raya
+lokasi_tempat_Kebun Raya
+lokasi_tempat_Kebun raya
+lokasi_tempat_poliklinik
+lokasi_tempat_poliklinik itera
+lokasi_tempat_Poliklinik
+lokasi_tempat_klinik
+lokasi_tempat_Klinik
+lokasi_tempat_Poliklinik itera
+lokasi_tempat_poliklinik ITERA
+lokasi_tempat_Poliklinik ITERA
+lokasi_tempat_Fasilitas Kesehatan
+lokasi_tempat_kesehatan
+lokasi_tempat_Kesehatan
+lokasi_tempat_wifi corner
+lokasi_tempat_Wifi Corner
+lokasi_tempat_Wifi corner
+lokasi_tempat_WiFi corner
+lokasi_tempat_WiFi Corner
+lokasi_tempat_Area Wifi
+lokasi_tempat_area wifi
+lokasi_tempat_Area WiFi
+lokasi_tempat_Area Akses WiFi
+lokasi_tempat_Area akses WiFi
+lokasi_tempat_Area akses wifi
+lokasi_tempat_Area akses Wifi
+lokasi_tempat_gym
+lokasi_tempat_Gym
+lokasi_tempat_Gym itera
+lokasi_tempat_gym itera
+lokasi_tempat_GYM
+lokasi_tempat_GYM ITERA
+lokasi_tempat_GYM Itera
+lokasi_tempat_Gym Itera
+lokasi_tempat_GYM itera
+lokasi_tempat_observatorium itera
+lokasi_tempat_observatorium
+lokasi_tempat_Observatorium Itera
+lokasi_tempat_Observatorium
+lokasi_tempat_Observatorium ITERA
+lokasi_tempat_PLTS
+lokasi_tempat_plts itera
+lokasi_tempat_PLTS ITERA
+lokasi_tempat_plts Itera
+lokasi_tempat_PLTS Itera
+lokasi_tempat_panel surya
+lokasi_tempat_surya
+lokasi_tempat_plts terbesar
+lokasi_tempat_GSG
+lokasi_tempat_Gsg
+lokasi_tempat_Perpustakaan
+lokasi_tempat_perpustakaan itera
+lokasi_tempat_perpustakaan
+lokasi_tempat_Perpustakaan Itera
+lokasi_tempat_Perpustakaan ITERA
+lokasi_tempat_perpustakaan Itera
+lokasi_tempat_perpustakaan ITERA
+lokasi_tempat_perpus
+lokasi_tempat_Perpus
+lokasi_tempat_Perpus Itera
+lokasi_tempat_Perpus ITERA
+lokasi_tempat_RIMA
+lokasi_tempat_Rima
+lokasi_tempat_rima
+lokasi_tempat_rumah ibadah
+lokasi_tempat_rumah ibadah multiagama
+lokasi_tempat_Rumah Ibadah
+lokasi_tempat_Rumah ibadah
+lokasi_tempat_Rumah Ibadah Multiagama
+lokasi_tempat_Gku2
+lokasi_tempat_gku2
+lokasi_tempat_Gk1
+lokasi_tempat_gk1
+lokasi_tempat_GK1
+lokasi_tempat_GKU1
+lokasi_tempat_Gku 1
+lokasi_tempat_gku 1
+lokasi_tempat_Gk 1
+lokasi_tempat_gk 1
+lokasi_tempat_GK 1
+lokasi_tempat_GKU 1
+lokasi_tempat_Gk2
+lokasi_tempat_gk2
+lokasi_tempat_GK2
+lokasi_tempat_GKU2
+lokasi_tempat_Gku 2
+lokasi_tempat_gku 2
+lokasi_tempat_Gk 2
+lokasi_tempat_gk 2
+lokasi_tempat_GK 2
+lokasi_tempat_GKU 2
+lokasi_tempat_Galeri
+lokasi_tempat_galeri
+lokasi_tempat_Galeri Itera
+lokasi_tempat_Galeri ITERA
+lokasi_tempat_Gladiator
+lokasi_tempat_gladiator
+lokasi_tempat_Gladiator Itera
+lokasi_tempat_Gladiator ITERA
+lokasi_tempat_Aula
+lokasi_tempat_aula
+lokasi_tempat_Aula Itera
+lokasi_tempat_Aula ITERA
+lokasi_lab_lab 1
+lokasi_lab_Lab 1
+lokasi_lab_Labtek 1
+lokasi_lab_labtek 1
+lokasi_lab_laboratorium 1
+lokasi_lab_Laboratorium 1
+lokasi_lab_laboratorium teknik 1
+lokasi_lab_Laboratorium teknik 1
+lokasi_lab_Laboratorium Teknik 1
+lokasi_lab_lab1
+lokasi_lab_Lab1
+lokasi_lab_Labtek1
+lokasi_lab_labtek1
+lokasi_lab_laboratorium1
+lokasi_lab_Laboratorium1
+lokasi_lab_laboratorium teknik1
+lokasi_lab_Laboratorium teknik1
+lokasi_lab_Laboratorium Teknik1
+lokasi_lab_lab 2
+lokasi_lab_Lab 2
+lokasi_lab_Labtek 2
+lokasi_lab_labtek 2
+lokasi_lab_laboratorium 2
+lokasi_lab_Laboratorium 2
+lokasi_lab_laboratorium teknik 2
+lokasi_lab_Laboratorium teknik 2
+lokasi_lab_Laboratorium Teknik 2
+lokasi_lab_lab2
+lokasi_lab_Lab2
+lokasi_lab_Labtek2
+lokasi_lab_labtek2
+lokasi_lab_laboratorium2
+lokasi_lab_Laboratorium2
+lokasi_lab_laboratorium teknik2
+lokasi_lab_Laboratorium teknik2
+lokasi_lab_Laboratorium Teknik2
+lokasi_lab_lab 3
+lokasi_lab_Lab 3
+lokasi_lab_Labtek 3
+lokasi_lab_labtek 3
+lokasi_lab_laboratorium 3
+lokasi_lab_Laboratorium 3
+lokasi_lab_laboratorium teknik 3
+lokasi_lab_Laboratorium teknik 3
+lokasi_lab_Laboratorium Teknik 3
+lokasi_lab_lab3
+lokasi_lab_Lab3
+lokasi_lab_Labtek3
+lokasi_lab_labtek3
+lokasi_lab_laboratorium3
+lokasi_lab_Laboratorium3
+lokasi_lab_laboratorium teknik3
+lokasi_lab_Laboratorium teknik3
+lokasi_lab_Laboratorium Teknik3
+lokasi_lab_lab 4
+lokasi_lab_Lab 4
+lokasi_lab_Labtek 4
+lokasi_lab_labtek 4
+lokasi_lab_laboratorium 4
+lokasi_lab_Laboratorium 4
+lokasi_lab_laboratorium teknik 4
+lokasi_lab_Laboratorium teknik 4
+lokasi_lab_Laboratorium Teknik 4
+lokasi_lab_lab4
+lokasi_lab_Lab4
+lokasi_lab_Labtek4
+lokasi_lab_labtek4
+lokasi_lab_laboratorium4
+lokasi_lab_Laboratorium4
+lokasi_lab_laboratorium teknik4
+lokasi_lab_Laboratorium teknik4
+lokasi_lab_Laboratorium Teknik4
+lokasi_lab_lab 5
+lokasi_lab_Lab 5
+lokasi_lab_Labtek 5
+lokasi_lab_labtek 5
+lokasi_lab_laboratorium 5
+lokasi_lab_Laboratorium 5
+lokasi_lab_laboratorium teknik 5
+lokasi_lab_Laboratorium teknik 5
+lokasi_lab_Laboratorium Teknik 5
+lokasi_lab_lab5
+lokasi_lab_Lab5
+lokasi_lab_Labtek5
+lokasi_lab_labtek5
+lokasi_lab_laboratorium5
+lokasi_lab_Laboratorium5
+lokasi_lab_laboratorium teknik5
+lokasi_lab_Laboratorium teknik5
+lokasi_lab_Laboratorium Teknik5
+lokasi_lab_lab ozt
+lokasi_lab_Lab ozt
+lokasi_lab_Labtek ozt
+lokasi_lab_labtek ozt
+lokasi_lab_laboratorium ozt
+lokasi_lab_Laboratorium ozt
+lokasi_lab_laboratorium teknik ozt
+lokasi_lab_Laboratorium teknik ozt
+lokasi_lab_Laboratorium Teknik ozt
+lokasi_lab_labozt
+lokasi_lab_Labozt
+lokasi_lab_Labtekozt
+lokasi_lab_labtekozt
+lokasi_lab_laboratoriumozt
+lokasi_lab_Laboratoriumozt
+lokasi_lab_laboratorium teknikozt
+lokasi_lab_Laboratorium teknikozt
+lokasi_lab_Laboratorium Teknikozt
+lokasi_lab_lab OZT
+lokasi_lab_Lab OZT
+lokasi_lab_Labtek OZT
+lokasi_lab_labtek OZT
+lokasi_lab_laboratorium OZT
+lokasi_lab_Laboratorium OZT
+lokasi_lab_laboratorium teknik OZT
+lokasi_lab_Laboratorium teknik OZT
+lokasi_lab_Laboratorium Teknik OZT
+lokasi_lab_labOZT
+lokasi_lab_LabOZT
+lokasi_lab_LabtekOZT
+lokasi_lab_labtekOZT
+lokasi_lab_laboratoriumOZT
+lokasi_lab_LaboratoriumOZT
+lokasi_lab_laboratorium teknikOZT
+lokasi_lab_Laboratorium teknikOZT
+lokasi_lab_Laboratorium TeknikOZT
+lokasi_lab_lab iot
+lokasi_lab_Lab iot
+lokasi_lab_Labtek iot
+lokasi_lab_labtek iot
+lokasi_lab_laboratorium iot
+lokasi_lab_Laboratorium iot
+lokasi_lab_laboratorium teknik iot
+lokasi_lab_Laboratorium teknik iot
+lokasi_lab_Laboratorium Teknik iot
+lokasi_lab_labiot
+lokasi_lab_Labiot
+lokasi_lab_Labtekiot
+lokasi_lab_labtekiot
+lokasi_lab_laboratoriumiot
+lokasi_lab_Laboratoriumiot
+lokasi_lab_laboratorium teknikiot
+lokasi_lab_Laboratorium teknikiot
+lokasi_lab_Laboratorium Teknikiot
+lokasi_lab_lab IOT
+lokasi_lab_Lab IOT
+lokasi_lab_Labtek IOT
+lokasi_lab_labtek IOT
+lokasi_lab_laboratorium IOT
+lokasi_lab_Laboratorium IOT
+lokasi_lab_laboratorium teknik IOT
+lokasi_lab_Laboratorium teknik IOT
+lokasi_lab_Laboratorium Teknik IOT
+lokasi_lab_labIOT
+lokasi_lab_LabIOT
+lokasi_lab_LabtekIOT
+lokasi_lab_labtekIOT
+lokasi_lab_laboratoriumIOT
+lokasi_lab_LaboratoriumIOT
+lokasi_lab_laboratorium teknikIOT
+lokasi_lab_Laboratorium teknikIOT
+lokasi_lab_Laboratorium TeknikIOT
+lokasi_lab_lab IoT
+lokasi_lab_Lab IoT
+lokasi_lab_Labtek IoT
+lokasi_lab_labtek IoT
+lokasi_lab_laboratorium IoT
+lokasi_lab_Laboratorium IoT
+lokasi_lab_laboratorium teknik IoT
+lokasi_lab_Laboratorium teknik IoT
+lokasi_lab_Laboratorium Teknik IoT
+lokasi_lab_labIoT
+lokasi_lab_LabIoT
+lokasi_lab_LabtekIoT
+lokasi_lab_labtekIoT
+lokasi_lab_laboratoriumIoT
+lokasi_lab_LaboratoriumIoT
+lokasi_lab_laboratorium teknikIoT
+lokasi_lab_Laboratorium teknikIoT
+lokasi_lab_Laboratorium TeknikIoT
+lokasi_kantin_RK
+lokasi_kantin_rk
+lokasi_kantin_Rk
+lokasi_kantin_rumah kayu
+lokasi_kantin_Rumah kayu
+lokasi_kantin_Baim
+lokasi_kantin_BKL
+lokasi_kantin_bkl
+lokasi_kantin_Bkl
+lokasi_kantin_Bukit Kiara Indah
+lokasi_kantin_Bukit kiara indah
+lokasi_kantin_asrama
+lokasi_kantin_Asrama
+lokasi_embung_A
+lokasi_embung_B
+lokasi_embung_C
+lokasi_embung_D
+lokasi_embung_E
+lokasi_embung_F
+lokasi_embung_a
+lokasi_embung_b
+lokasi_embung_c
+lokasi_embung_d
+lokasi_embung_e
+lokasi_embung_f
+lokasi_embung_sumatera
+lokasi_embung_kebun raya
+lokasi_embung_Sumatera
+lokasi_embung_Kebun Raya
+lokasi_lapangan_bola
+lokasi_lapangan_Bola
+lokasi_lapangan_Sepak Bola
+lokasi_lapangan_sepak bola
+lokasi_lapangan_basket
+lokasi_lapangan_Basket
+lokasi_lapangan_voly
+lokasi_lapangan_Voly
+lokasi_lapangan_baseball
+lokasi_lapangan_Baseball
+lokasi_lapangan_base ball
+lokasi_lapangan_Base ball
+lokasi_lapangan_futsal
+lokasi_lapangan_Futsal
+lokasi_lapangan_panjat tebing
+lokasi_lapangan_Panjat Tebing
+lokasi_lapangan_Panjat tebing
+lokasi_gerbang_barat
+lokasi_gerbang_Barat
+lokasi_gerbang_Utama
+lokasi_gerbang_utama
+lokasi_gerbang_depan
+lokasi_gerbang_Depan
+lokasi_gedung_A
+lokasi_gedung_B
+lokasi_gedung_C
+lokasi_gedung_D
+lokasi_gedung_E
+lokasi_gedung_F
+lokasi_gedung_a
+lokasi_gedung_b
+lokasi_gedung_c
+lokasi_gedung_d
+lokasi_gedung_e
+lokasi_gedung_FTI
+lokasi_gedung_fti
+lokasi_gedung_Fakultas Teknologi Industri
+lokasi_gedung_fakultas
+lokasi_gedung_Serba Guna
+lokasi_gedung_serba guna
+lokasi_gedung_Serba guna
+lokasi_gedung_serbaguna
+lokasi_gedung_Serbaguna
+lokasi_gedung_akademik
+lokasi_gedung_Akademik
+lokasi_gedung_Rektor
+lokasi_gedung_rektor
+lokasi_gedung_Keuangan
+lokasi_gedung_keuangan
+lokasi_gedung_Ke uangan
+lokasi_gedung_ke uangan
+lokasi_gedung_bandar lampung
+lokasi_gedung_Bandar Lampung
+lokasi_gedung_Bandar lampung
+lokasi_gedung_student center
+lokasi_gedung_Student center
+lokasi_gedung_Student Center
+lokasi_gedung_sc
+lokasi_gedung_SC
+lokasi_gedung_kuliah 1
+lokasi_gedung_Kuliah 1
+lokasi_gedung_Kuliah Umum 1
+lokasi_gedung_Kuliah umum 1
+lokasi_gedung_kuliah1
+lokasi_gedung_Kuliah1
+lokasi_gedung_Kuliah Umum1
+lokasi_gedung_Kuliah umum1
+lokasi_gedung_kuliah 2
+lokasi_gedung_Kuliah 2
+lokasi_gedung_Kuliah Umum 2
+lokasi_gedung_Kuliah umum 2
+lokasi_gedung_kuliah2
+lokasi_gedung_Kuliah2
+lokasi_gedung_Kuliah Umum2
+lokasi_gedung_Kuliah umum2
+lokasi_asrama_TB1
+lokasi_asrama_tb1
+lokasi_asrama_Tb1
+lokasi_asrama_TB 1
+lokasi_asrama_tb 1
+lokasi_asrama_Tb 1
+lokasi_asrama_TB2
+lokasi_asrama_Depan
+lokasi_asrama_TB3
+lokasi_asrama_TB4
+lokasi_asrama_TB5
+lokasi_asrama_putra
+lokasi_asrama_Putra
+lokasi_asrama_laki
+lokasi_asrama_laki-laki
+lokasi_asrama_pria
+lokasi_asrama_Pria
+lokasi_asrama_putri
+lokasi_asrama_Putri
+lokasi_asrama_perempuan
+lokasi_asrama_Perempuan
+lokasi_asrama_wanita
+lokasi_asrama_Wanita
+lokasi_ruangan_000
+lokasi_ruangan_002
+lokasi_ruangan_003
+lokasi_ruangan_004
+lokasi_ruangan_005
+lokasi_ruangan_006
+lokasi_ruangan_007
+lokasi_ruangan_008
+lokasi_ruangan_009
+lokasi_ruangan_010
+lokasi_ruangan_011
+lokasi_ruangan_012
+lokasi_ruangan_013
+lokasi_ruangan_014
+lokasi_ruangan_015
+lokasi_ruangan_016
+lokasi_ruangan_017
+lokasi_ruangan_018
+lokasi_ruangan_019
+lokasi_ruangan_020
+lokasi_ruangan_100
+lokasi_ruangan_101
+lokasi_ruangan_102
+lokasi_ruangan_103
+lokasi_ruangan_104
+lokasi_ruangan_105
+lokasi_ruangan_106
+lokasi_ruangan_107
+lokasi_ruangan_108
+lokasi_ruangan_109
+lokasi_ruangan_110
+lokasi_ruangan_111
+lokasi_ruangan_112
+lokasi_ruangan_113
+lokasi_ruangan_114
+lokasi_ruangan_115
+lokasi_ruangan_116
+lokasi_ruangan_117
+lokasi_ruangan_118
+lokasi_ruangan_119
+lokasi_ruangan_120
+lokasi_ruangan_200
+lokasi_ruangan_201
+lokasi_ruangan_202
+lokasi_ruangan_203
+lokasi_ruangan_204
+lokasi_ruangan_205
+lokasi_ruangan_206
+lokasi_ruangan_207
+lokasi_ruangan_208
+lokasi_ruangan_209
+lokasi_ruangan_210
+lokasi_ruangan_211
+lokasi_ruangan_212
+lokasi_ruangan_213
+lokasi_ruangan_214
+lokasi_ruangan_215
+lokasi_ruangan_216
+lokasi_ruangan_217
+lokasi_ruangan_218
+lokasi_ruangan_219
+lokasi_ruangan_220
+lokasi_ruangan_300
+lokasi_ruangan_301
+lokasi_ruangan_302
+lokasi_ruangan_303
+lokasi_ruangan_304
+lokasi_ruangan_305
+lokasi_ruangan_306
+lokasi_ruangan_307
+lokasi_ruangan_308
+lokasi_ruangan_309
+lokasi_ruangan_310
+lokasi_ruangan_311
+lokasi_ruangan_312
+lokasi_ruangan_313
+lokasi_ruangan_314
+lokasi_ruangan_315
+lokasi_ruangan_316
+lokasi_ruangan_317
+lokasi_ruangan_318
+lokasi_ruangan_319
+lokasi_ruangan_320
+lokasi_ruangan_400
+lokasi_ruangan_401
+lokasi_ruangan_402
+lokasi_ruangan_403
+lokasi_ruangan_404
+lokasi_ruangan_405
+lokasi_ruangan_406
+lokasi_ruangan_407
+lokasi_ruangan_408
+lokasi_ruangan_409
+lokasi_ruangan_410
+lokasi_ruangan_411
+lokasi_ruangan_412
+lokasi_ruangan_413
+lokasi_ruangan_414
+lokasi_ruangan_415
+lokasi_ruangan_416
+lokasi_ruangan_417
+lokasi_ruangan_418
+lokasi_ruangan_419
+lokasi_ruangan_420

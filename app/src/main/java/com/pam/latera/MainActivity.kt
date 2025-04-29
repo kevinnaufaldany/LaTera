@@ -3,45 +3,31 @@ package com.pam.latera
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import androidx.activity.enableEdgeToEdge
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
-import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
-import com.pam.latera.ui.theme.LaTeraTheme
+import com.google.firebase.FirebaseApp
+import com.pam.latera.model.PredictBot
+import com.pam.latera.tampilan.ChatScreen
+import com.pam.latera.ui.theme.LateraTheme
+import com.pam.latera.utils.FirestoreHelper
+import com.pam.latera.utils.SoundPlayer
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        enableEdgeToEdge()
+
+        FirebaseApp.initializeApp(this) // <-- INI HARUS DI SINI DULU sebelum FirestoreHelper!!
+
+        val soundPlayer = SoundPlayer(this)
+        val firestoreHelper = FirestoreHelper()
+        val predictBot = PredictBot(this)
+
         setContent {
-            LaTeraTheme {
-                Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Greeting(
-                        name = "Android",
-                        modifier = Modifier.padding(innerPadding)
-                    )
-                }
+            LateraTheme {
+                ChatScreen(
+                    predictBot = predictBot,
+                    firestoreHelper = firestoreHelper,
+                    soundPlayer = soundPlayer
+                )
             }
         }
-    }
-}
-
-@Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!",
-        modifier = modifier
-    )
-}
-
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    LaTeraTheme {
-        Greeting("Android")
     }
 }

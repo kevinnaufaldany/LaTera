@@ -13,6 +13,61 @@
         android:theme="@style/Theme.LaTera"
         tools:targetApi="31">
         <activity
+            android:name=".tampilan.componens.TypingBubble"
+            android:exported="false"
+            android:label="@string/title_activity_typing_bubble"
+            android:theme="@style/Theme.LaTera" />
+        <activity
+            android:name=".data.ChatMessage"
+            android:exported="false"
+            android:label="@string/title_activity_chat_message"
+            android:theme="@style/Theme.LaTera" />
+        <activity
+            android:name=".model.PredictBot"
+            android:exported="false"
+            android:label="@string/title_activity_predict_bot"
+            android:theme="@style/Theme.LaTera" />
+        <activity
+            android:name=".utils.FirestoreHelper"
+            android:exported="false"
+            android:label="@string/title_activity_firestore_helper"
+            android:theme="@style/Theme.LaTera" />
+        <activity
+            android:name=".utils.SoundPlayer"
+            android:exported="false"
+            android:label="@string/title_activity_sound_player"
+            android:theme="@style/Theme.LaTera" />
+        <activity
+            android:name=".tampilan.Theme"
+            android:exported="false"
+            android:label="@string/title_activity_theme"
+            android:theme="@style/Theme.LaTera" />
+        <activity
+            android:name=".tampilan.componens.InputField"
+            android:exported="false"
+            android:label="@string/title_activity_input_field"
+            android:theme="@style/Theme.LaTera" />
+        <activity
+            android:name=".tampilan.componens.QuickQuestion"
+            android:exported="false"
+            android:label="@string/title_activity_quick_question"
+            android:theme="@style/Theme.LaTera" />
+        <activity
+            android:name=".tampilan.componens.ChatHeader"
+            android:exported="false"
+            android:label="@string/title_activity_chat_header"
+            android:theme="@style/Theme.LaTera" />
+        <activity
+            android:name=".tampilan.componens.ChatBubble"
+            android:exported="false"
+            android:label="@string/title_activity_chat_bubble"
+            android:theme="@style/Theme.LaTera" />
+        <activity
+            android:name=".tampilan.ChatScreen"
+            android:exported="false"
+            android:label="@string/title_activity_chat_screen"
+            android:theme="@style/Theme.LaTera" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:label="@string/app_name"

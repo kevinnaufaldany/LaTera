@@ -4,3 +4,15 @@ plugins {
     alias(libs.plugins.kotlin.android) apply false
     alias(libs.plugins.kotlin.compose) apply false
 }
+
+buildscript {
+    dependencies {
+        classpath(libs.google.services.v441) // atau versi terbaru
+    }
+}
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}

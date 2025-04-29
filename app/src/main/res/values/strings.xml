@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">LaTera</string>
+    <string name="title_activity_chat_screen">ChatScreen</string>
+    <string name="title_activity_chat_bubble">ChatBubble</string>
+    <string name="title_activity_chat_header">ChatHeader</string>
+    <string name="title_activity_quick_question">QuickQuestion</string>
+    <string name="title_activity_input_field">InputField</string>
+    <string name="title_activity_predict_bot">PredictBot</string>
+    <string name="title_activity_theme">Theme</string>
+    <string name="title_activity_sound_player">SoundPlayer</string>
+    <string name="title_activity_firestore_helper">FirestoreHelper</string>
+    <string name="title_activity_chat_message">ChatMessage</string>
+    <string name="title_activity_typing_bubble">TypingBubble</string>
 </resources>

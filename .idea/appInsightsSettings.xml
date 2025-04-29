@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.pam.latera" />
+                  <option name="mobileSdkAppId" value="1:552608266625:android:bf88a63208b0fd3648d080" />
+                  <option name="projectId" value="latera-pam-11" />
+                  <option name="projectNumber" value="552608266625" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
