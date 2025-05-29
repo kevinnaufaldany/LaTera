@@ -22,20 +22,55 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.core.net.toUri
 
 @Composable
 fun LayananFTIScreen(onBack: () -> Unit) {
     val context = LocalContext.current
 
     val layananList = listOf(
-        "Form pengajuan Kerja Praktik",
-        "Form penilaian Kerja Praktik",
-        "Form dispensasi kuliah",
-        "Form cuti mahasiswa",
-        "-",
-        "-",
-        "-",
-        "-"
+        "Input Pengajuan Berkas",
+        "Cek Status Dokumen",
+        "Form Pengajuan Kerja Praktik",
+        "Tanda Bukti Menerima Berkas",
+        "Form Penilaian Kerja Praktik",
+        "Form Cuti Mahasiswa",
+        "Form Pengajuan Pengantar Kerja Praktik",
+        "Form Pengajuan Pengantar Kuliah Lapangan",
+        "Form Dispensasi Kuliah",
+        "Form Permohonan Pengantar Izin/Permintaan Data Tugas Akhir (Transkrip/KHS tidak perlu di ttd)",
+        "Form Pendaftaran Yudisium",
+        "Form Pengunduran untuk mahasiswa TPB",
+        "Form Pengunduran Diri Mahasiswa FTI",
+        "Form Rekomendasi Mahasiswa",
+        "Form Peminjaman Alat Laboratorium (Dalam Fakultas)",
+        "Form Izin Penelitian dan Penggunaan Alat Laboratorium Lintas Fakultas (dari FTI ke Fakultas lain)",
+        "Form Izin Penelitian dan Penggunaan Alat Laboratorium Lintas Fakultas (dari FTI ke Fakultas lain, Peminjaman Berkelompok)",
+        "Form Izin Penelitian dan Penggunaan Laboratorium MM / TIK",
+        "Format Permohonan Peminjaman Laboratorium",
+        "Format Permohonan Izin Penelitian diluar jam ITERA",
+        "Surat Izin Kegiatan Senin-Jumat HIMA",
+        "Surat Izin Kegiatan Sabtu & Minggu HIMA",
+        "Surat Izin Kegiatan Luar Kampus HIMA",
+        "Surat Izin Peminjaman Ruang Kelas",
+        "Layanan Perubahan KRS",
+        "Layanan Pengisian KRS",
+        "Layanan Penyembunyian Matakuliah",
+        "Layanan Tampil Matakuliah",
+        "Layanan Surat Tugas Mahasiswa",
+        "Layanan Surat Pengantar Magang",
+        "Format Undangan Penguji dan Pembimbing",
+        "Format Perubahan Nilai",
+        "Surat Keterangan Turnitin",
+        "Surat Keterangan Bebas Prodi dan Surat Pernyataan Mahasiswa",
+        "Form Kesepakatan Jadwal Sidang Seminar Tugas Akhir",
+        "Form Permohonan Seminar Sidang Tugas Akhir",
+        "Form Pernyataan Sudah menyelesaikan KP untuk KKN",
+        "Form Permohonan Translate Ijazah",
+        "Form Permohonan Kunjungan untuk Matakuliah (Tugas Praktikum ke luar instansi)",
+        "Form Kelakuan Baik",
+        "Form Permohonan Perubahan Data Mahasiswa",
+        "Form Permohonan Dosen Pembimbing Luar Instansi"
     )
 
     Column(
@@ -76,19 +111,38 @@ fun LayananFTIScreen(onBack: () -> Unit) {
             items(layananList) { label ->
                 LayananFTIItem(label = label) {
                     when (label) {
-                        "Form pengajuan Kerja Praktik" -> {
+                        "Input Pengajuan Berkas" -> {
                             val intent = Intent(
                                 Intent.ACTION_VIEW,
-                                Uri.parse("https://fti.itera.ac.id/wp-content/uploads/2025/03/FORM-SURAT-PERMOHONAN-KERJA-PRAKTIK.pdf")
+                                "https://fti.itera.ac.id/kendali/jtpi/user/student_index.php".toUri()
                             )
                             context.startActivity(intent)
                         }
-
-
+                        "Cek Status Dokumen" -> {
+                            val intent = Intent(
+                                Intent.ACTION_VIEW,
+                                "https://fti.itera.ac.id/kendali/jtpi/view_studentindexstatus.php".toUri()
+                            )
+                            context.startActivity(intent)
+                        }
+                        "Tanda Bukti Menerima Berkas" -> {
+                            val intent = Intent(
+                                Intent.ACTION_VIEW,
+                                "https://fti.itera.ac.id/kendali/jtpi/user/studenttt_form.php".toUri()
+                            )
+                            context.startActivity(intent)
+                        }
+                        "Form pengajuan Kerja Praktik" -> {
+                            val intent = Intent(
+                                Intent.ACTION_VIEW,
+                                "https://fti.itera.ac.id/wp-content/uploads/2025/03/FORM-SURAT-PERMOHONAN-KERJA-PRAKTIK.pdf".toUri()
+                            )
+                            context.startActivity(intent)
+                        }
                         "Form penilaian Kerja Praktik" -> {
                             val intent = Intent(
                                 Intent.ACTION_VIEW,
-                                Uri.parse("https://fti.itera.ac.id/wp-content/uploads/2023/03/FORM-NILAI-KP-2.pdf")
+                                "https://fti.itera.ac.id/wp-content/uploads/2023/03/FORM-NILAI-KP-2.pdf".toUri()
                             )
                             context.startActivity(intent)
                         }
