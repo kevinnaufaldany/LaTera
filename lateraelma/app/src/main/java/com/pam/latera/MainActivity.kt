@@ -233,7 +233,7 @@ fun HomeScreen(
                 .padding(18.dp)
         ) {
             Text(
-                text = "Aplikasi La-Tera adalah aplikasi Smart Campus Assistant yang dirancang khusus untuk mahasiswa program studi Teknik Informatika Institut Teknologi Sumatera (ITERA).",
+                text = "Aplikasi LaTera adalah aplikasi Smart Campus Assistant yang dirancang khusus untuk mahasiswa program studi Teknik Informatika Institut Teknologi Sumatera (ITERA).",
                 style = MaterialTheme.typography.bodySmall,
                 color = Color.Black
             )
