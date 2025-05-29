@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "552608266625",
+    "firebase_url": "https://latera-pam-11-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "latera-pam-11",
+    "storage_bucket": "latera-pam-11.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552608266625:android:bf88a63208b0fd3648d080",
+        "android_client_info": {
+          "package_name": "com.pam.latera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZET751B21ChzSYYtmOiMjNXGMH1q769o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552608266625:android:0a10f28873a292ad48d080",
+        "android_client_info": {
+          "package_name": "com.pam.latera_elma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZET751B21ChzSYYtmOiMjNXGMH1q769o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
