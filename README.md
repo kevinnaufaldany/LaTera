@@ -62,30 +62,16 @@ MainActivity.kt
 Berikut adalah tampilan antarmuka aplikasi **LaTera**:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/058634f6-e6a6-4c2c-9843-919f0bbef032" width="45%" alt="Tampilan 1" />
-  <img src="https://github.com/user-attachments/assets/1ff393df-d834-4013-9c76-6032bc5c8615" width="45%" alt="Tampilan 2" />
+  <img src="https://github.com/user-attachments/assets/00f11474-2374-4986-9cb1-b46c03d89342" width="45%" alt="Tampilan 1" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2a16f8c3-8310-4ebd-8c3e-6ffb5f76c202" width="45%" alt="Tampilan 3" />
-  <img src="https://github.com/user-attachments/assets/52bdc2b0-5bf3-45ec-9847-40de837a501a" width="45%" alt="Tampilan 4" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c897ea41-51bb-4b5f-9fe1-ae8d72bb9321" width="45%" alt="Tampilan 5" />
-  <img src="https://github.com/user-attachments/assets/a477b548-f77d-4eb4-a90e-600360783471" width="45%" alt="Tampilan 6" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5d5693bb-0bcb-4fe6-b01d-6807171364bf" width="45%" alt="Tampilan 7" />
-</p>
 
 **Keterangan:**
 
 - Gambar 1–2: Tampilan beranda dan menu layanan mahasiswa.
 - Gambar 3–4: ChatBot dan fitur layanan FTI.
-- Gambar 5–6: Menu akademik (SIAKAD & E-Learning).
-- Gambar 7: Formulir pembuatan jadwal kuliah.
+- Gambar 5: Menu akademik (SIAKAD & E-Learning).
+- Gambar 6: Formulir pembuatan jadwal kuliah.
 
 ---
 
