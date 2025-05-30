@@ -57,12 +57,12 @@ MainActivity.kt
 ## 📸 Tampilan Aplikasi
 
 📦 **Download LaTera v1.0 APK:**  
-🔗 [https://github.com/kevinnaufaldany/LaTera/releases/download/v1.0-LaTera/LaTera.apk](https://github.com/kevinnaufaldany/LaTera/releases/download/v1.0-LaTera/LaTera.apk)
+🔗 https://github.com/kevinnaufaldany/LaTera/releases/download/v1.0-LaTera/LaTera.apk
 
 Berikut adalah tampilan antarmuka aplikasi **LaTera**:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/00f11474-2374-4986-9cb1-b46c03d89342" width="45%" alt="Tampilan 1" />
+  <img src="https://github.com/user-attachments/assets/00f11474-2374-4986-9cb1-b46c03d89342" width="80%"/>
 </p>
 
 
