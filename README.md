@@ -7,7 +7,7 @@
 ## 🚀 Fitur Unggulan
 
 - **ChatBot Navigasi Kampus**
-  - Fitur interaktif (berbasis TensorFlow API) untuk panduan lokasi gedung secara real-time
+  - Fitur interaktif (berbasis NavBot API) untuk panduan lokasi gedung secara real-time
 - **Manajemen Kuliah**
   - Buat dan atur jadwal kuliah
 - **Layanan Mahasiswa**
@@ -26,7 +26,7 @@
 | UI       | Jetpack Compose        |
 | Auth     | Firebase Authentication |
 | DB       | Firebase Firestore     |
-| API Bot  | NavBot API         |
+| API Bot  | [NavBot API](https://github.com/kevinnaufaldany/API-NavBot)         |
 
 ---
 
@@ -56,7 +56,7 @@ MainActivity.kt
 ## 📸 Tampilan Aplikasi
 
 📦 **Download LaTera v1.0 APK:**  
-🔗 https://github.com/kevinnaufaldany/LaTera/releases/download/v1.0-LaTera/LaTera.apk
+🔗 [Download Aplikasi](https://github.com/kevinnaufaldany/LaTera/releases/download/v1.0-LaTera/LaTera.apk)
 
 Berikut adalah tampilan antarmuka aplikasi **LaTera**:
 
