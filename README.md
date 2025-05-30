@@ -63,8 +63,6 @@ Berikut adalah tampilan antarmuka aplikasi **LaTera**:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/058634f6-e6a6-4c2c-9843-919f0bbef032" width="45%" alt="Tampilan 1" />
-  ![ecf8ee6d-b300-463a-a730-4ca0f8e6aa6e](https://github.com/user-attachments/assets/f5b5c717-b8eb-4f75-971a-bb02f113edf8)
-
   <img src="https://github.com/user-attachments/assets/1ff393df-d834-4013-9c76-6032bc5c8615" width="45%" alt="Tampilan 2" />
 </p>
 
