@@ -6,12 +6,8 @@
 
 ## 🚀 Fitur Unggulan
 
-- **Autentikasi Firebase**
-  - Login, Register, Lupa Password, dan Reset Password via *deep link*
-- **Navigasi Menu Modular**
-  - Onboarding → Login/Register → Home → Fitur Akademik
-- **Manajemen Profil**
-  - Pengambilan nama dan NIM otomatis dari Firestore setelah login
+- **ChatBot Navigasi Kampus**
+  - Fitur interaktif (berbasis TensorFlow API) untuk panduan lokasi gedung secara real-time
 - **Manajemen Kuliah**
   - Buat dan atur jadwal kuliah
 - **Layanan Mahasiswa**
@@ -20,8 +16,6 @@
   - Permintaan dokumen administratif
 - **SIAKAD & E-Learning**
   - Shortcut menuju layanan akademik daring
-- **ChatBot Navigasi Kampus**
-  - Fitur interaktif (berbasis TensorFlow API) untuk panduan lokasi gedung secara real-time
 
 ---
 
@@ -56,28 +50,24 @@ MainActivity.kt
     ├── LayananFTIScreen
     ├── JadwalKuliahScreen
     └── ChatBotScreen
-
 ```
 
+## 📸 Tampilan Aplikasi
+🔗 Download LaTera v1.0 APK
+
+---
+
+📜 Lisensi
+Proyek ini merupakan bagian dari Tugas Besar Pengembangan Aplikasi Mobile di ITERA dan tersedia untuk keperluan edukasi.
+
+---
+
+---
+
 ## 👨‍💻 Developer Team (Kelompok 11)
-----------------------------------
 
 *   Elma Nurul Fatika (122140069)  
 *   Kevin Naufal Dany (122140222)  
 *   Khoirul Rijal Wicaksono (122140234)  
 
 ---
-
-## 📌 Catatan
-----------
-
-*   Pastikan Anda sudah mengatur Firebase project dan `google-services.json`.  
-*   OOBCode untuk reset password didukung melalui intent deep link.  
-*   Layout telah disesuaikan untuk perangkat layar kecil-menengah dengan desain responsif menggunakan Compose.  
-
----
-
-## 📜 Lisensi
-----------
-
-Proyek ini merupakan bagian dari Tugas Besar _Pengembangan Aplikasi Mobile_ di ITERA dan tersedia untuk keperluan edukasi.
