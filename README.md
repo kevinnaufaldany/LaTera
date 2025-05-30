@@ -52,6 +52,8 @@ MainActivity.kt
     └── ChatBotScreen
 ```
 
+---
+
 ## 📸 Tampilan Aplikasi
 🔗 Download LaTera v1.0 APK
 
@@ -67,8 +69,6 @@ MainActivity.kt
 
 📜 Lisensi
 Proyek ini merupakan bagian dari Tugas Besar Pengembangan Aplikasi Mobile di ITERA dan tersedia untuk keperluan edukasi.
-
----
 
 ---
 
