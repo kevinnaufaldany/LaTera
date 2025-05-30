@@ -26,8 +26,7 @@
 | UI       | Jetpack Compose        |
 | Auth     | Firebase Authentication |
 | DB       | Firebase Firestore     |
-| NLP Bot  | TensorFlow API         |
-| Deep Link| Handle `oobCode` dari Intent |
+| API Bot  | NavBot API         |
 
 ---
 
