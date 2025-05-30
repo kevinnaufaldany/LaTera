@@ -67,7 +67,7 @@ MainActivity.kt
 
 ---
 
-📜 Lisensi
+## 📜 Lisensi
 Proyek ini merupakan bagian dari Tugas Besar Pengembangan Aplikasi Mobile di ITERA dan tersedia untuk keperluan edukasi.
 
 ---
