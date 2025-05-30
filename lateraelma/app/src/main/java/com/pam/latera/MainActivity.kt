@@ -128,17 +128,6 @@ fun AppContent(
                     onBackToLogin = { currentScreen = "login" }
                 )
 
-                "reset_password" -> ResetPasswordScreen(
-                    oobCode = oobCode,
-                    onResetSuccess = {
-                        currentScreen = "login"
-                    },
-                    onResetFailure = { errorMsg ->
-                        // Bisa tampilkan error di UI jika mau, saat ini langsung ke login
-                        currentScreen = "login"
-                    }
-                )
-
                 "home" -> HomeScreen(
                     onNavigateToAkademik = { currentScreen = "akademik" },
                     onNavigateToInformatika = { currentScreen = "informatika" },
