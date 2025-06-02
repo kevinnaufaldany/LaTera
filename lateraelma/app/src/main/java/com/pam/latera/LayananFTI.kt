@@ -132,17 +132,18 @@ fun LayananFTIScreen(onBack: () -> Unit) {
                             )
                             context.startActivity(intent)
                         }
-                        "Form pengajuan Kerja Praktik" -> {
+                        "Form Pengajuan Kerja Praktik" -> {
                             val intent = Intent(
                                 Intent.ACTION_VIEW,
-                                "https://fti.itera.ac.id/wp-content/uploads/2025/03/FORM-SURAT-PERMOHONAN-KERJA-PRAKTIK.pdf".toUri()
+                                Uri.parse("https://fti.itera.ac.id/wp-content/uploads/2025/03/FORM-SURAT-PERMOHONAN-KERJA-PRAKTIK.pdf")
                             )
                             context.startActivity(intent)
                         }
-                        "Form penilaian Kerja Praktik" -> {
+
+                        "Form Penilaian Kerja Praktik" -> {
                             val intent = Intent(
                                 Intent.ACTION_VIEW,
-                                "https://fti.itera.ac.id/wp-content/uploads/2023/03/FORM-NILAI-KP-2.pdf".toUri()
+                                Uri.parse("https://fti.itera.ac.id/wp-content/uploads/2023/03/FORM-NILAI-KP-2.pdf")
                             )
                             context.startActivity(intent)
                         }
